@@ -87,7 +87,7 @@
 
 <h2 align="center">📎 Documentos</h2>
 <p align="center">
-  <a href="https://drive.google.com/file/d/1JCtp3HwI9SxeIkRmA9MktgLl75O_ZnL7/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1dR-qIBXss0nVD6KgVpOsNuBYBXHi5jDO/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄 Currículum (Español)-orange?style=for-the-badge" alt="CV Español">
   </a>
   <a href="https://drive.google.com/file/d/1mxGIgjx_ibucB_AUBW9vnJXb1uu1yQRF/view?usp=sharing" target="_blank">
