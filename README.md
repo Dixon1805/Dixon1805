@@ -40,19 +40,9 @@ esto actualmente muestra iconos. me gustaria que abajo de cada icono muestres el
     <img src="https://skillicons.dev/icons?i=react,ts,laravel,angular,vue,css,html&perline=14" />
   </a>
 </p>
-![Git](https://img.shields.io/badge/-Git-000?&logo=Material-ui)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Bootstrap)
-### Misc tools:
-&emsp;
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
-![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)
-![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+
 
 ### Services & Frameworks: 
 &emsp;
