@@ -86,6 +86,18 @@
 
 &emsp;
 
+### 🧠 &nbsp;Soft Skills
+
+- ✅ &nbsp;**Assertive Communication** – I express ideas clearly and respectfully.  
+- 🤝 &nbsp;**Teamwork** – I collaborate effectively in diverse group settings.  
+- 🧩 &nbsp;**Problem Solving** – I enjoy identifying root causes and proposing practical solutions.  
+- 🧠 &nbsp;**Critical Thinking** – I analyze challenges and think strategically to find better approaches.  
+- 🔄 &nbsp;**Adaptability** – I adjust quickly to new tools, teams, or environments.  
+- 🎨 &nbsp;**Creativity** – I approach problems with fresh perspectives and innovative ideas.  
+- 💪 &nbsp;**Resilience** – I stay persistent and positive in the face of obstacles.  
+- 📌 &nbsp;**Responsibility & Commitment** – I take ownership of tasks and consistently follow through.
+
+
 ## 📈 My GitHub Stats and Activity
 
 ### 💻 Profile Stats
