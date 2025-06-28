@@ -4,13 +4,13 @@
 
 -------------------
 &emsp;
-<h3 align="left">Hi 👋, I'm Berkeli, Site Reliability Engineer based in London. I have extensive experience working in agile environment on several projects as a full stack engineer.</h3>
+<h3 align="left">Hi 👋, I'm Dixon, a Studen of Bussines informatics from the Universidad de Costa Rica. I have experience working in agile environment and on projects as a full stack engineer.</h3>
 &emsp;
 
 -------------------
 &emsp;
 
-- 🔭 I’m currently working on [Mentor Bot](https://mentor.love/) for CYF Products. 
+- 🔭 I’m currently searching from companys to work or make my intership. 
 - 📚 I'm also doing the [Immersive Engineering Course](https://github.com/CodeYourFuture/immersive-go-course), a program aimed at Site Reliability Engineering designed by CodeYourFuture in partnership with [Slack](https://slack.com/).
 
 - 🌱 I’m currently learning **GO, Observability & Monitoring of Distributed Systems, Event Driven Systems**
