@@ -25,19 +25,19 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,java,js,py," />
+    <img src="https://skillicons.dev/icons?i=html,java,js,py&perline=14" />
   </a>
 </p>
 
 esto actualmente muestra iconos. me gustaria que abajo de cada icono muestres el nombre de este "javascript etc"
 
-### Frontend development:
+### Frontend development experience:
 &emsp;
 
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,ts,laravel,angular,vue&perline=14" />
   </a>
 </p>
 
