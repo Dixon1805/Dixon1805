@@ -34,13 +34,12 @@
 &emsp;
 
 &emsp;
-![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,laravel,angular,vue,css,html&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,ts,laravel,angular,vue,css,html,materialui&perline=14" />
   </a>
 </p>
 
@@ -60,6 +59,13 @@
   </a>
 </p>
 
+
+### Version Controll & Tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,figma,github,postman,vscode&perline=14" />
+  </a>
+</p>
 
 ### SRE & DevOps:
 &emsp;
