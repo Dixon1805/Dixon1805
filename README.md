@@ -45,20 +45,19 @@
 ![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 
-### Services & Frameworks: 
-&emsp;
-![Hasura](https://img.shields.io/badge/-Hasura-000?&logo=Hasura)
-![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
-![Serverless](https://img.shields.io/badge/-Serverless-000?&logo=Serverless)
-
 
 ### Databases:
 &emsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql&perline=14" />
+  </a>
+</p>
+
+![Azure SQL](https://img.shields.io/badge/Azure_SQL_DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
 
 ### SRE & DevOps:
 &emsp;
