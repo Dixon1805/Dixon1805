@@ -37,16 +37,20 @@ esto actualmente muestra iconos. me gustaria que abajo de cada icono muestres el
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,laravel,angular,vue,css,html,material-ui&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,ts,laravel,angular,vue,css,html&perline=14" />
   </a>
 </p>
 
-![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
-![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-000?&logo=Chakra-UI)
-![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js)
+<div class="icon-item">
+    <img src="https://cdn.simpleicons.org/materialui/007FFF" alt="Material UI" />
+    <span>Material UI</span>
+  </div>
+
+  <!-- Manual: Bootstrap -->
+  <div class="icon-item">
+    <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" />
+    <span>Bootstrap</span>
+  </div>
 ### Misc tools:
 &emsp;
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
