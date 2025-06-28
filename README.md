@@ -1,30 +1,29 @@
+<h1 align="center">Hi 👋, I'm Dixon</h1>
+
 <p align="center">
   <a href="https://github.com/Dixon1805" align="center">
-    <img align="center" alt="Visitas" src="https://visitor-badge.laobi.icu/badge?page_id=Dixon1805.Dixon1805">
+    <img align="center" alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=Dixon1805.Dixon1805">
   </a>
 </p>
 
+---
 
-<h1 align="center">Hi 👋, I'm Dixon</h1>
+<h3 align="left">I'm Dixon Muñoz Murillo, a Business Informatics student at the Universidad de Costa Rica. I have hands-on experience in full stack development and IT projects that align technology with business needs.</h3>
 
--------------------
-&emsp;
-<h3 align="left">Hi 👋, I'm Dixon, a Studen of Bussines informatics from the Universidad de Costa Rica. I have experience working in agile environment and on projects as a full stack engineer.</h3>
-&emsp;
-
--------------------
+---
 &emsp;
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering .\
-🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
-&emsp;
+💻 &nbsp;Currently studying Business Informatics at the University of Costa Rica (2022–2025).  
+🛠️ &nbsp;Practical experience developing full-stack solutions in real-world training projects.  
+💼 &nbsp;Worked on systems for restaurants and automotive workshops, focusing on optimization and user experience.  
+📊 &nbsp;Skilled in integrating technology to improve processes and add business value.  
+🌱 &nbsp;Learning more about Web Development, Networking, Automation Testing, and Agile methodologies.  
+🤝 &nbsp;I enjoy working with collaborative teams that foster innovation and growth.  
+✉️ &nbsp;Feel free to contact me at: dixonmunosmurillo1@gmail.com  
+🔗 &nbsp;LinkedIn: [Dixon Muñoz Murillo](https://www.linkedin.com/in/dixon-mu%C3%B1oz-murillo-597ab5362/)
+
+---
 
 ## 🛠️ My Skills and Experience
 -------------------
