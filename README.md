@@ -40,17 +40,8 @@ esto actualmente muestra iconos. me gustaria que abajo de cada icono muestres el
     <img src="https://skillicons.dev/icons?i=react,ts,laravel,angular,vue,css,html&perline=14" />
   </a>
 </p>
-
-<div class="icon-item">
-    <img src="https://cdn.simpleicons.org/materialui/007FFF" alt="Material UI" />
-    <span>Material UI</span>
-  </div>
-
-  <!-- Manual: Bootstrap -->
-  <div class="icon-item">
-    <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" />
-    <span>Bootstrap</span>
-  </div>
+![Git](https://img.shields.io/badge/-Git-000?&logo=Material-ui)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Bootstrap)
 ### Misc tools:
 &emsp;
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
