@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dixon</h1>
 
-<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image">
-
 -------------------
 &emsp;
 <h3 align="left">Hi 👋, I'm Dixon, a Studen of Bussines informatics from the Universidad de Costa Rica. I have experience working in agile environment and on projects as a full stack engineer.</h3>
@@ -9,14 +7,15 @@
 
 -------------------
 &emsp;
-
-- 🔭 I’m currently searching from companys to work or make my intership. 
-- 📚 I'm also doing the [Immersive Engineering Course](https://github.com/CodeYourFuture/immersive-go-course), a program aimed at Site Reliability Engineering designed by CodeYourFuture in partnership with [Slack](https://slack.com/).
-
-- 🌱 I’m currently learning **GO, Observability & Monitoring of Distributed Systems, Event Driven Systems**
-
-- 💬 Ask me about **AWS, Terraform, TypeScript, SQL/NoSQL Databases**
-
+👨🏻‍💻  About Me
+👨‍💻  I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.
+💡  I like to explore new technologies and develop software solutions and quick hacks.
+🎓  I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering .
+🌱  I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.
+✍️  In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.
+💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
+✉️  You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.
+📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
 &emsp;
 
 ## 🛠️ My Skills and Experience
