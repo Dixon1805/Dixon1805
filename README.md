@@ -22,12 +22,51 @@
 ## 🛠️ My Skills
 -------------------
 ### Programming languages:
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,java,js,py,laravel" />
-  </a>
-</p>
+<!-- tech stack icons -->
+<style>
+  .icon-container {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: start;
+    align-items: center;
+    margin-top: 10px;
+  }
+
+  .icon-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: sans-serif;
+    font-size: 14px;
+    color: #333;
+  }
+
+  .icon-item img {
+    width: 48px;
+    height: 48px;
+  }
+</style>
+
+<div class="icon-container">
+  <div class="icon-item">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+    <span>HTML</span>
+  </div>
+  <div class="icon-item">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+    <span>Java</span>
+  </div>
+  <div class="icon-item">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+    <span>JavaScript</span>
+  </div>
+  <div class="icon-item">
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" />
+    <span>Python</span>
+  </div>
+</div>
+
 
 ### Frontend development:
 &emsp;
