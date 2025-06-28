@@ -95,7 +95,7 @@
 
 <h2 align="center">📎 Documents</h2>
 <p align="center">
-  <a href="https://drive.google.com/file/d/18C0z45rh4_ko1Zdc10nKcVcSgs5Z8Jd6/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1UhJfqle4wEiqfD2vEyBhvcyvrYQib181/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄 CV (English)-orange?style=for-the-badge" alt="CV English">
   </a>
   <a href="https://drive.google.com/file/d/1iICKHDKisZDoXx8CE4vQd4Ww2Tpbx9jq/view?usp=sharing" target="_blank">
