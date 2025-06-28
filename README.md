@@ -21,7 +21,7 @@
 
 ## 🛠️ My Skills
 -------------------
-### Programming languages:
+### Programming languages <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
@@ -39,7 +39,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,laravel,angular,vue,css,html,materialui&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,ts,laravel,angular,vue,css,html,materialui&perline=14"/>
     <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
   </a>
 </p>
