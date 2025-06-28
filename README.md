@@ -19,7 +19,7 @@
 
 &emsp;
 
-## 🛠️ My Skills
+## 🛠️ My Experience
 -------------------
 ### Programming languages <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>:
 <!--tech stack icons-->
@@ -30,7 +30,7 @@
 </p>
 
 
-### Frontend development experience:
+### Frontend development:
 &emsp;
 
 &emsp;
@@ -63,6 +63,8 @@
 
 ### Version Controll & Tools:
 &emsp;
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
     ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
     ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
     ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
