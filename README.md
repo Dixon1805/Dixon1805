@@ -33,6 +33,10 @@
 ### Frontend development experience:
 &emsp;
 
+&emsp;
+![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
@@ -41,13 +45,13 @@
 </p>
 
 
-&emsp;
-![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+
 
 
 ### Databases:
 &emsp;
+![Azure SQL](https://img.shields.io/badge/Azure_SQL_DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
 
 
 <p align="center">
@@ -55,8 +59,6 @@
     <img src="https://skillicons.dev/icons?i=mysql&perline=14" />
   </a>
 </p>
-
-![Azure SQL](https://img.shields.io/badge/Azure_SQL_DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 
 ### SRE & DevOps:
