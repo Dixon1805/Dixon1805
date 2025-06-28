@@ -43,7 +43,7 @@ esto actualmente muestra iconos. me gustaria que abajo de cada icono muestres el
 
 
 &emsp;
-![Hasura](https://img.shields.io/badge/-Hasura-000?&logo=Hasura)
+![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
 ![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
 ![Serverless](https://img.shields.io/badge/-Serverless-000?&logo=Serverless)
 
