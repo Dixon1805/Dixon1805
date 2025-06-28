@@ -79,7 +79,7 @@
 <h2 align="center">📈 Estadísticas de GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dixon1805&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dixon1805&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"/>
 </p>
 
