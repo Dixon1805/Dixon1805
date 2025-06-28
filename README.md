@@ -22,13 +22,12 @@
 ## 🛠️ My Skills
 -------------------
 ### Programming languages:
-&emsp;
- <img src="./icons/Java-Dark.svg" width="48">  
-<img src="./icons/Angular-Dark.svg" width="48">
-  <img src="./icons/HTML.svg" width="48">  
-  <img src="./icons/JavaScript.svg" width="48">
-<img src="./icons/Laravel-Dark.svg" width="48">
-  <img src="./icons/PHP-Dark.svg" width="48">
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+  </a>
+</p>
 
 ### Frontend development:
 &emsp;
